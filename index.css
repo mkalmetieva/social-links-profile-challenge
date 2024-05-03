@@ -65,12 +65,13 @@ h1 {
   color: var(--white);
 }
 
-.address {
-  color: var(--green);
+address {
+  font-style: normal;
   font-weight: 600;
+  color: var(--green);
 }
 
-.about-me {
+q {
   padding: 1rem 0;
 
   font-size: 0.875rem;

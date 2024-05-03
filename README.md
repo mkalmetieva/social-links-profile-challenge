@@ -12,7 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [Continued development](#continued-development)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -39,8 +38,3 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### Continued development
-
-- I used `position: absolute` to center the div. As an alternative, I can use flexbox or grid.
-- Image gets hidden at some point if the page is zoomed in
